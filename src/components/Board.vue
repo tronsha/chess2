@@ -1,16 +1,11 @@
 <template>
-  <h1>Chess</h1>
-  <Board />
+  <div class="board"></div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import Board from './Board.vue';
 
 export default defineComponent({
-  name: 'App',
-  components: {
-    Board,
-  }
+  name: 'Board',
 });
 </script>
