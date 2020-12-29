@@ -1,1 +1,1 @@
-# chess2
+# Chess
