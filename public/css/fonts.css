@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Audiowide';
+    src: url('../fonts/Audiowide.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu Mono';
+    src: url('../fonts/UbuntuMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

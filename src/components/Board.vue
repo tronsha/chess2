@@ -9,3 +9,14 @@ export default defineComponent({
   name: 'Board',
 });
 </script>
+
+<style>
+.board {
+  height: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  max-height: 100%;
+  max-width: 100%;
+  width: 600px;
+}
+</style>
